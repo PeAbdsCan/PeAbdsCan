@@ -8,7 +8,7 @@ _pensando seriamente em largar tudo e vender minha arte na praia_
 Falando em Arte, minha mãe é professora disso e eu gosto bastante também... 
 escrevo e desenho muito bem, modéstia a parte
 
-voltando ao CTISM, estou no segundo ano do ensino médio, fazendo curso de informática integrado e meu professor _HENRY_ é _INCRIVEL_, confia
+voltando ao CTISM, estou no terceiro ano do ensino médio, fazendo curso de informática integrado e meu professor _HENRY_ é _INCRIVEL_, confia
 
 Não que se importe, agora vou listar algumas curiosidades bacaninhas sobre mim e... o mundo?
 
