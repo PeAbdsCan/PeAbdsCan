@@ -27,3 +27,18 @@ Não que se importe, agora vou listar algumas curiosidades bacaninhas sobre mim 
 ![N](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXDE3NVCBlHb4qJpzDl2uS4qN4dsE6BHx6kzIXbez-7UER3qfJWLEEjsQjDTSnt5E4JeU&usqp=CAU)
 
 era pra ser uma capivara de jaqueta mas eu não achei ;-;
+
+
+
+add no estagio
+  [] bd 
+  [] gps
+  [] interface basica 
+  [] botao de config? (mais pra frente)
+  [] audios
+
+
+- baixar o sublime (https://git-scm.com/download/win)
+- baixar o git (https://www.sublimetext.com/)
+- logar no git (git config --global user.email)
+- logar no git (git config --global user.name)
